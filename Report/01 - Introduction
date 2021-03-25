@@ -1,0 +1,14 @@
+# 01 - Introduction
+### In this project we explored deep learning models for the network intrusion detection. We chose FFNN and Autoencoder followed by FFNN respectively, wanting to compare the 
+performance of semi-supervised methods(AE+FFNN) with the supervised feed-forward neural network(FFNN).
+
+We applied our models to CIC-IDS2017 datasets, which was recorded in a small network environment with simulated normal traffic. It possesses 78 features and 12 classes that we
+would explore in the next sections. And six categories of modern attacks are launched from a separate network.It is representative of modern network traffic.
+
+This project is a new challenge for us--new methods and new platform. We did part of the work on HPC, and there is still some work that is not comprehensive enough because of
+technological barriers--some of the work didn't run successfully on HPC.
+
+The models we used for doing classification are FFNN and AE+FFNN,
+ FFNN:
+ AE+FFNN: in this part we split the training set of the IDS2017 dataset into 75%-25%. The first 75%(label removed) was used during the unsupervised training phase, and the second
+ 25% was used in the supervised training phase. We transformed the training data by encoder before doing classification.
