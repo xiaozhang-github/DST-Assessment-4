@@ -1,21 +1,39 @@
 # DST-Assessment-4
 
 ## Project Group
-### Xiao Zhang
-### Wenqi Fang
-### This project has a 50/50 equity split betwen the two project partners.
 
-## Reading order and requirements
-### All report content is in the directory:
-### report
-### The report takes the following structure:
-### 01_Introduction
-### 02_EDA and Preprocessing
-### 03_FFNN
-### 04_Autoencoder
-### 05_Conclusion
+Xiao Zhang
+
+Wenqi Fang
+
+This project has a 50/50 equity split betwen the two project partners.
+
+## Reading order
+All report content is in the directory:
+
+report/
+
+01-Introduction
+
+02-EDA and Preprocessing
+
+03-FFNN
+
+04-Autoencoder
+
+05-Performance comparison and Conclusion
+
+## Data
+Any data that we access from within our reports is found in:
+
+Data/
+
+The main data is the enron emails and any other data found in here are pickled files that are results from the data processing to reduce computation time on time expensive processes in the reports.
 
 ## Evidence
-### Our working is shown in our own directories:
-### [Xiao Zhang](https://github.com/xiaozhang-github/DST-Assessment-4/tree/main/Xiao%20Zhang)
-### [Wenqi Fang](https://github.com/xiaozhang-github/DST-Assessment-4/tree/main/Wenqi%20Fang)
+
+Our working is shown in our own directories:
+
+[Xiao Zhang](https://github.com/xiaozhang-github/DST-Assessment-4/tree/main/Xiao%20Zhang)
+
+[Wenqi Fang](https://github.com/xiaozhang-github/DST-Assessment-4/tree/main/Wenqi%20Fang)
