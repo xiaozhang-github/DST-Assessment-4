@@ -9,6 +9,7 @@ Wenqi Fang
 This project has a 50/50 equity split betwen the two project partners.
 
 ## Reading order
+
 All report content is in the directory:
 
 report/
@@ -24,11 +25,10 @@ report/
 05-Performance comparison and Conclusion
 
 ## Data
+
 Any data that we access from within our reports is found in:
 
 Data/
-
-The main data is the enron emails and any other data found in here are pickled files that are results from the data processing to reduce computation time on time expensive processes in the reports.
 
 ## Evidence
 
